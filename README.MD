@@ -1,6 +1,6 @@
 # Hello world docker
 
-THis action print "Hello World" or "
+THis action print "Hello World" or "Hello" + the name of person o greet
 
 ## Inputs
 
