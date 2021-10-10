@@ -1,5 +1,5 @@
 const express = require('express')
-const port = process.env.port || 8080
+const port = process.env.port || 8080;
 const app = express()
 const host = '0.0.0.0';
 
