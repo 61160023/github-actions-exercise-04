@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
     res.json({message: 'Hello world!'})
 })
 
-app.listen(port,host, () => {
+app.listen(port, host, () => {
     console.log('The app is up and running!')
 })
 module.exports = app
